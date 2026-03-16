@@ -17,6 +17,8 @@ def main():
 
     # Add your own message here!
     print("I wanted to know more about GIS since it I picked it as an elective and I started liking it for it to become my major now")
+    
+print('Updated in Codespaces')
 
 if __name__ == "__main__":
     main()
