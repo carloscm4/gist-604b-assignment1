@@ -1,6 +1,6 @@
 # Open Source Repository Review
 
-**Student:** [Your Name]  
+**Student:** Carlos Castillo Malave  
 **Course:** GIST 604B – Open Source GIS  
 **Assignment:** GitHub Repository Management  
 
